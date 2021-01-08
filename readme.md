@@ -1,4 +1,4 @@
-# PSP 200/3000 Clone Battery Board Reverse Engineering
+# PSP 2000/3000 Clone Battery Board Reverse Engineering
 
 This is a project that is focused on reverse engineering the boards inside Chinese PSP-2000/3000 batteries, hopefully this will help people in making battery mods
 
