@@ -13,4 +13,4 @@ The battery board uses a Chinese microcontroller marked "8052E" where the full p
 
 ![](/Images/Front.jpg)
 
-![](/Image/Back.jpg)
+![](/Images/Back.jpg)
